@@ -1,5 +1,5 @@
 
-# Log 02 — Simulated Suspicious Authentication Activity
+# Investigation — Simulated Suspicious Authentication Activity
 
 ## Event observed
 
